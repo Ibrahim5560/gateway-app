@@ -1,0 +1,17 @@
+
+/**
+ * VehicleLicenseType (Vehicle_license_type) entity.\n @author Ibrahim Mohamed.
+ */
+entity VehicleLicenseType {       
+  name String
+  rank Integer 
+  engName String
+  code String
+} 
+
+paginate all with pagination
+dto * with mapstruct
+service all with serviceImpl
+filter all
+
+         
