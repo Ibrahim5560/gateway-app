@@ -1,0 +1,27 @@
+{
+  "gatewayApp": {
+    "vehicleLicenseType": {
+      "home": {
+        "title": "Vehicle License Types",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Vehicle License Type",
+        "createOrEditLabel": "Create or edit a Vehicle License Type",
+        "notFound": "No Vehicle License Types found"
+      },
+      "created": "A new Vehicle License Type is created with identifier {{ param }}",
+      "updated": "A Vehicle License Type is updated with identifier {{ param }}",
+      "deleted": "A Vehicle License Type is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Vehicle License Type {{ id }}?"
+      },
+      "detail": {
+        "title": "Vehicle License Type"
+      },
+      "id": "ID",
+      "name": "Name",
+      "rank": "Rank",
+      "engName": "Eng Name",
+      "code": "Code"
+    }
+  }
+}
